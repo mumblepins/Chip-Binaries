@@ -5,7 +5,7 @@ Compiled on and for the [C.H.I.P.](http://getchip.com/) (armhf) running `Linux c
 
 
 ## [InfluxDB](https://github.com/influxdata/influxdb)
--[0.9.6.1](https://github.com/influxdata/influxdb/tree/v0.9.6.1)
+- [0.9.6.1](https://github.com/influxdata/influxdb/tree/v0.9.6.1)
 
 ## [PhantomJS](https://github.com/ariya/phantomjs)
--[2.1.0](https://github.com/ariya/phantomjs/tree/2.1.0)
+- [2.1.0](https://github.com/ariya/phantomjs/tree/2.1.0)
